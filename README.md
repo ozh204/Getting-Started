@@ -1,28 +1,5 @@
-<<<<<<< HEAD
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # Getting-Started
->>>>>>> 884d1f167cef6ccbcd95c878c472167e7f28b99a
+
+| Ruby  | Rails | Baza     |
+|-------|:-----:|---------:|
+| 2.4.0 | 5.0.1 | postgres |
